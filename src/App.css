@@ -1,0 +1,17 @@
+.App {
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.App > div {
+  margin-right: 50px;
+}
+.Null1 {
+  background-color: green;
+  width: 100px;
+}
+.Null2 {
+  background-color: red;
+  width: 100px;
+}
